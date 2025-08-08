@@ -1,0 +1,9 @@
+speechrecognition
+pyaudio
+pyttsx3
+wikipedia
+geopy
+geocoder
+spacy
+vosk
+requests
